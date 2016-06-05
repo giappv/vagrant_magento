@@ -9,8 +9,8 @@ Quickly install Magento development environment with [vagrant](https://www.vagra
 3. Checkout Source code & Run Vagrant Up
 
 ```
-git clone git@github.com:giappv/vagrant_wordpress.git
-cd vagrant_wordpress
+git clone git@github.com:giappv/vagrant_magento.git
+cd vagrant_magento
 vagrant plugin install vagrant-hostmanager
 vagrant up
 ```
@@ -37,4 +37,4 @@ pass: 123456
 root pass: 123456
 ```
 
-Visit [magento.dev][http://magento.dev] to start installing magento
+Visit [magento.dev](http://magento.dev) to start installing magento
